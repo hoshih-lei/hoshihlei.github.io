@@ -1,0 +1,23 @@
+p{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	line-height: 1;
+	letter-spacing: 1ch;
+}
+h1{
+	color: cadetblue;
+	text-align: center;
+}
+h2{
+	color: brown;
+	text-align: center;
+}
+img_wrap{
+	width:700px;
+	height:350px;
+	border:1px dashed #ccc;
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center;
+}
